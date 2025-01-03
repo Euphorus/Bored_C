@@ -1,0 +1,10 @@
+﻿  test.cpp
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(9,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'time_t'
+  C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(9,9):
+  consider using '%lld' in the format string
+  C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(9,9):
+  consider using '%Id' in the format string
+  C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(9,9):
+  consider using '%I64d' in the format string
+  
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(10,15): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

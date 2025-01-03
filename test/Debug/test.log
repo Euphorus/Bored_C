@@ -1,0 +1,10 @@
+﻿  test.cpp
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(11,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'time_t'
+  C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(11,9):
+  consider using '%lld' in the format string
+  C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(11,9):
+  consider using '%I64d' in the format string
+  
+  test.vcxproj -> C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\Debug\test.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
