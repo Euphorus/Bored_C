@@ -1,20 +1,53 @@
-// test.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+#include<iostream>
+#include<ctime>
 
-#include <iostream>
+void drawBoard(char* spaces);
+void playerMove(char* spaces, char player);
+void computerMove(char* spaces, char computer);
+bool checkWinner(char* spaces, char player, char computer);
+bool checkTie(char* spaces);
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	char spaces[9] = { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' };
+	char player = 'X';
+	char computer = 'O';
+	bool running = true;
+
+
+	drawBoard(spaces);
+
+
+	return 0;
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
+void drawBoard(char* spaces)
+{
+	std::cout << "     |     |     " << "\n";
+	std::cout << "  " << spaces[0] << "  |  " << spaces[1] << "  |  " << spaces[2] << "\n";
+	std::cout << "_____|_____|_____" << "\n";
+	std::cout << "     |     |     " << "\n";
+	std::cout << "  " << spaces[3] << "  |  " << spaces[4] << "  |  " << spaces[5] << "\n";
+	std::cout << "_____|_____|_____" << "\n";
+	std::cout << "     |     |     " << "\n";
+	std::cout << "  " << spaces[6] << "  |  " << spaces[7] << "  |  " << spaces[8] << "\n";
+}
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+void playerMove(char* spaces, char player)
+{
+}
+
+void computerMove(char* spaces, char computer)
+{
+}
+
+bool checkWinner(char* spaces, char player, char computer)
+{
+	return false;
+}
+
+bool checkTie(char* spaces)
+{
+	return false;
+}
