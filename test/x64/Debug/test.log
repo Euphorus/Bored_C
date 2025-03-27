@@ -1,4 +1,7 @@
 ﻿  test.cpp
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(71,11): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(71,26): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\test.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   test.vcxproj -> C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\x64\Debug\test.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
