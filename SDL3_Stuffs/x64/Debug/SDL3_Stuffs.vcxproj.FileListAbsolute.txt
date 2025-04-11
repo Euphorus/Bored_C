@@ -1,0 +1,2 @@
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\x64\Debug\raylib.dll
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_C\SDL3_Stuffs\x64\Debug\SDL3_Stu.DF18840D.Up2Date

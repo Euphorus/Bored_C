@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lonew\\source\\repos\\SDL3_Stuffs\\",
+  "WorkspaceRootPath": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2BC62F3-D381-4837-AF16-F77C0D9083D2}|SDL3_Stuffs.vcxproj|C:\\Users\\lonew\\source\\repos\\SDL3_Stuffs\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E2BC62F3-D381-4837-AF16-F77C0D9083D2}|SDL3_Stuffs.vcxproj|C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2BC62F3-D381-4837-AF16-F77C0D9083D2}|SDL3_Stuffs.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\lonew\\source\\repos\\SDL3_Stuffs\\main.c",
+              "DocumentMoniker": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_C\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\lonew\\source\\repos\\SDL3_Stuffs\\main.c",
+              "ToolTip": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_C\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-09T16:06:00.81Z",
               "EditorCaption": ""
